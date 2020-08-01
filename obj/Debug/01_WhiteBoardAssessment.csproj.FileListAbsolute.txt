@@ -1,0 +1,7 @@
+C:\Users\peytn\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\Challenge1\WhiteBoardAssessment\bin\Debug\WhiteBoardAssessment.exe.config
+C:\Users\peytn\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\Challenge1\WhiteBoardAssessment\bin\Debug\WhiteBoardAssessment.exe
+C:\Users\peytn\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\Challenge1\WhiteBoardAssessment\bin\Debug\WhiteBoardAssessment.pdb
+C:\Users\peytn\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\Challenge1\WhiteBoardAssessment\obj\Debug\01_WhiteBoardAssessment.csprojAssemblyReference.cache
+C:\Users\peytn\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\Challenge1\WhiteBoardAssessment\obj\Debug\01_WhiteBoardAssessment.csproj.CoreCompileInputs.cache
+C:\Users\peytn\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\Challenge1\WhiteBoardAssessment\obj\Debug\WhiteBoardAssessment.exe
+C:\Users\peytn\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\Challenge1\WhiteBoardAssessment\obj\Debug\WhiteBoardAssessment.pdb
